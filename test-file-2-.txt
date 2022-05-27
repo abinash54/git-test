@@ -1,2 +1,2 @@
 this file goes to another branch from brancg 1
-another line is added here
+another line is addded but modified for another purpose
